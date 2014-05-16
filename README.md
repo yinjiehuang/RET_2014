@@ -1,17 +1,18 @@
-===============================
+=========
  Automatic Text Detection DEMO
+=========
+ 
  Yinjie Huang
+ 
  RET Project
+ 
  University of Central Florida
+ 
  2014
-===============================
 
 
-
-==================================
-=========
 CONTENTS:
-=========
+
 
 1. General Information
 2. Requirements
