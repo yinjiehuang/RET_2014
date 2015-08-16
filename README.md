@@ -1,6 +1,5 @@
-=========
- Automatic Text Detection DEMO
-=========
+##Automatic Text Detection DEMO##
+
  
  Yinjie Huang
  
@@ -11,44 +10,46 @@
  2014
 
 
-CONTENTS:
+###CONTENTS:###
 
 
-1. General Information
-2. Requirements
-3. Installation
-4. Usage
-5. References
+- General Information
+- Requirements
+- Installation
+- Usage
+- References
 
 ==================================
 
-1.GENERAL INFORMATION
+###GENERAL INFORMATION###
 
 This software was written as the demo of RET project Summer 2014. It represents an implementation of
 an automatic text detection algorithm, including a complete graphical user interface (GUI). All rights belong to the author.
 
 
 
-2.REQUIREMENTS
+###REQUIREMENTS###
 
 To run this software, you need to have the following components installed:
+
 - Mathworks MATLAB
 - Mathworks Image Processing Toolbox
 - VLFeat open source library  http://www.vlfeat.org/
 
 
 
-3.INSTALLATION
+###INSTALLATION###
 
 This software doesn't require any installation. Just drop the files into a folder.
 
 
 
-4.USAGE
+###USAGE###
 
 To run the software, run the file 'Main.m' or type in 'Main' in the MATLAB command window. The script will take care of all the rest and start a graphical user interface. 
 
 The basic usage is as follows:
+
 - Open one image: click "File" and "open" on image.
 - First, we need to make sure if the image:
 	(1) Text is light and Background is Dark, we assign the value as 0
@@ -60,7 +61,7 @@ The basic usage is as follows:
 
 
 
-5.References
+###References###
 
 - Huizhong Chen; Sam S. Tsai; Georg Schroth; David M. Chen; Radek Grzeszczuk; Bernd Girod., "Robust text detection in natural images with edge-enhanced maximally stable extremal regions," Image Processing (ICIP), 2011 18th IEEE International Conference
 on, pp.2609--2612, 2011
